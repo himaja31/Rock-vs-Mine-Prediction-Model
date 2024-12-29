@@ -35,6 +35,6 @@ Contributions to this project are welcome. To contribute, please fork the reposi
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
-Prof. Sareen S. Deore, for guidance and support throughout the project.
-A.C. Patil College of Engineering for providing the necessary resources.
-Our peers and colleagues who provided insights and feedback on the project.
+- Prof. Sareen S. Deore, for guidance and support throughout the project.
+- A.C. Patil College of Engineering for providing the necessary resources.
+- Our peers and colleagues who provided insights and feedback on the project.
